@@ -17,6 +17,9 @@ My github portfolio created using react.
 npm start
 
 ## Usage
+![Capture2](https://user-images.githubusercontent.com/69816889/100044033-9d4c2400-2ddc-11eb-9f1e-cdcf177078a4.PNG)
+![Capture3](https://user-images.githubusercontent.com/69816889/100044034-9cb38d80-2ddc-11eb-8bdc-b3e1a80c65bd.PNG)
+![capture](https://user-images.githubusercontent.com/69816889/100044035-9de4ba80-2ddc-11eb-84ce-958217f2cc72.PNG)
 
 
 ## License
