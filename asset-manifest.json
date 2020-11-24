@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ca10dfc0.chunk.css",
+    "main.js": "/portfolio/static/js/main.67e5f5f9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.67e5f5f9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9b9927cc.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9b9927cc.js.map",
+    "static/js/2.16ac7995.chunk.js": "/portfolio/static/js/2.16ac7995.chunk.js",
+    "static/js/2.16ac7995.chunk.js.map": "/portfolio/static/js/2.16ac7995.chunk.js.map",
+    "static/js/3.9a4ccb96.chunk.js": "/portfolio/static/js/3.9a4ccb96.chunk.js",
+    "static/js/3.9a4ccb96.chunk.js.map": "/portfolio/static/js/3.9a4ccb96.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.ca10dfc0.chunk.css.map": "/portfolio/static/css/main.ca10dfc0.chunk.css.map",
+    "static/js/2.16ac7995.chunk.js.LICENSE.txt": "/portfolio/static/js/2.16ac7995.chunk.js.LICENSE.txt",
+    "static/media/HTML5.7d984b24.png": "/portfolio/static/media/HTML5.7d984b24.png",
+    "static/media/Notetaker.a4e9b490.PNG": "/portfolio/static/media/Notetaker.a4e9b490.PNG",
+    "static/media/Rea.ea7f5c5e.png": "/portfolio/static/media/Rea.ea7f5c5e.png",
+    "static/media/chat-app.ef999da9.PNG": "/portfolio/static/media/chat-app.ef999da9.PNG",
+    "static/media/fitness.43287d8f.PNG": "/portfolio/static/media/fitness.43287d8f.PNG",
+    "static/media/js.a2a16f08.png": "/portfolio/static/media/js.a2a16f08.png",
+    "static/media/logo.103b5fa1.svg": "/portfolio/static/media/logo.103b5fa1.svg",
+    "static/media/mongo.c964002e.png": "/portfolio/static/media/mongo.c964002e.png",
+    "static/media/node.07d152a8.png": "/portfolio/static/media/node.07d152a8.png",
+    "static/media/readme.c5682413.PNG": "/portfolio/static/media/readme.c5682413.PNG",
+    "static/media/stocksimulator.65d231da.PNG": "/portfolio/static/media/stocksimulator.65d231da.PNG",
+    "static/media/van-gogh.a248e533.jpg": "/portfolio/static/media/van-gogh.a248e533.jpg",
+    "static/media/weather.455fa0a7.PNG": "/portfolio/static/media/weather.455fa0a7.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b9927cc.js",
+    "static/js/2.16ac7995.chunk.js",
+    "static/css/main.ca10dfc0.chunk.css",
+    "static/js/main.67e5f5f9.chunk.js"
+  ]
+}
